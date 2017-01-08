@@ -1,0 +1,19 @@
+{
+  "name": "ng2-file-size-pipe",
+  "version": "0.0.0",
+  "description": "Custom pipe for angular 2 apps",
+  "main": "filesize.pipe.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bardiarastin/ng2-file-size-pipe.git"
+  },
+  "author": "Bardia Rastin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bardiarastin/ng2-file-size-pipe/issues"
+  },
+  "homepage": "https://github.com/bardiarastin/ng2-file-size-pipe#readme"
+}
